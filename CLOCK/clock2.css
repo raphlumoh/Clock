@@ -1,0 +1,17 @@
+body{
+    background-image: conic-gradient(red, green, blue, pink, brown);
+
+}
+.container{
+    width: 300px;
+    height: 300px;
+    border-radius: 180px;
+    color: rgb(57, 9, 249);
+    background-image: conic-gradient(green, powderblue, blueviolet, blue);
+    text-align: center;
+    font-size: 34px;
+    margin: auto; /*set the container to the center*/
+    padding: 30px;
+    transform: translateY(180px);
+    color: aliceblue;
+}

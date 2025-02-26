@@ -21,6 +21,15 @@
     transform: translate(-50%, -50%);
    
 }
+.logo{
+    position: absolute;
+    border-radius: 100px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 2rem;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
 
 .clock{
     width: 100%;
